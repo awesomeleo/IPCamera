@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camera Surveillance</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="TextLong">IPcamera</string>
+    <string name="TextTitle">"DESAIN DAN IMPLEMENTASI SISTEM PENGENDALI GERAK KAMERA PADA PEMANTAU KEAMANAN SUATU RUANGAN DALAM RUMAH DENGAN PENDETEKSI PERGERAKAN OBJEK"</string>
+    <string name="Stream">Stream &amp; Control</string>
+    <string name="About">About</string>
+    <string name="Picture">Picture</string>
+    <string name="TextTitlee">CAMERA SURVEILLANCE CONTROL SYSTEM</string>
+    <string name="Nama">Fazie Romadhona</string>
+    <string name="Nim">(at)faziefazie</string>
+    <string name="prodi">Indonesia (c)2014</string>
+
+</resources>
