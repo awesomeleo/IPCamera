@@ -1,3 +1,11 @@
+/**
+ *  Camera Surveillance Controller System
+ *  @version 1.1
+ *  http://www.instructables.com/member/faziefazie/
+ *  @author Faziefazie (Fazie Romadhona)
+ *  Indonesia. (2014)
+ */
+
 package com.ipcamera;
 
 
